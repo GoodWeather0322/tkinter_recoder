@@ -9,7 +9,7 @@
 
 ### 2. Follow the file format in command_pack2 folder to create your own record list
 1. commands_1.txt format : record_text \t record_id \t sample_audio
-2. wavs : folder saving sample audioss
+2. wavs : folder saving sample audios
 
 
 
