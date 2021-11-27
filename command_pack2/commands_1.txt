@@ -1,0 +1,3 @@
+number 1	00001	command_pack2\wavs\en-US-Wavenet-F_number-1.wav
+number 2	00002	command_pack2\wavs\en-US-Wavenet-F_number-2.wav
+number 3	00003	command_pack2\wavs\en-US-Wavenet-F_number-3.wav
